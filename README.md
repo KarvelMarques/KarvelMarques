@@ -2,7 +2,7 @@
 
 - 👋 Just an average cool kid.
 - 🔭 Studying at "Instituto Superior de Engenharia de Coimbra - ISEC" 
-- 🌱 Learning: C ,C++, NETLOGO, JS , REACT and ASSEMBLY. 
+- 🌱 Learning: C ,C++,C#, Asp.net, NETLOGO, JS , REACT and ASSEMBLY. 
 - 👀 Crypto Enthusiast and Politics connoisseur.
 - 💞️ In love with Crypto and wealthy lifestyle.
 - 📫 Hit me up for collab's and offers.
